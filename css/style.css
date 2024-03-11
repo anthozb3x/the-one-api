@@ -45,3 +45,23 @@ ul.list li a {
 	color: white;
 	text-decoration: none;
 }
+
+.book-container {
+	
+	background-color: #8FBC8F; /* Vert doux */
+	padding: 20px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+	position: relative;
+	min-height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  }
+  
+  .book-title {
+	color: white;
+	font-weight: bold;
+	text-align: center;
+  }
+  
